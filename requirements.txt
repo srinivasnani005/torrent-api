@@ -5,4 +5,4 @@ fastapi==0.104.1
 gunicorn
 mangum
 requests
-uvicorn[standard]
+uvicorn==0.15.0
