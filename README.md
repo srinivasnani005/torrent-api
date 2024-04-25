@@ -462,6 +462,7 @@ $ localhost:8009
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-The Torrents API is deployed on Vercel.
+
+Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/srinivasnani005/torrent-api.git)
